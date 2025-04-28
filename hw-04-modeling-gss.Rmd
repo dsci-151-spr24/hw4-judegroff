@@ -300,4 +300,4 @@ The resulting interval would be interpreted as: "We are 95% confident that the t
 
 A 90% confidence interval would be narrower than a 95% confidence interval because with less confidence required, we can make a more precise but less certain estimate.
 
-🧶 ✅ ⬆️ Knit, *commit, and push your changes to GitHub with an appropriate commit message. Make sure to commit and push all changed files so that your Git pane is cleared up afterwards and review the md document on GitHub to make sure you're happy with the final state of your work.*
+🧶 ✅ ⬆️ Knit, *commit, and push your changes to GitHub with an appropriate commit message. Make sure to commit and push all changed files so that your Git pane is cleared up afterwards and review the md document on GitHub to make sure you're happy with the final state of your work.*\
